@@ -1,0 +1,16 @@
+Initiliaze User
+   git config --global user.name "Quratulain Aqeel"
+   git config --global user.email "aquratulain98@gmail.com"
+
+Check status
+   git status
+
+Initialize Repository
+  git init
+
+push code in Repository
+  git add .
+  git commit -m "Updated"
+  git remote add origin  https://github.com/Quratulain209/qwerty.git  (Its your repo link. Add this line when you push code first in your repo)
+  git push origin master
+
